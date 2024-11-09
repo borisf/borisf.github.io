@@ -1,7 +1,5 @@
 
-//![Alt text](img/Header.jpg)
-
-<img src="img/Header.jpg" width="200" height="200" />
+<img src="img/Header.jpg" width="200"/>
 
 I am a senior partner engineer at Google. Our team engages with top apps and games.
 We act as trusted advisors and technical experts on a wide array of Android topics.
