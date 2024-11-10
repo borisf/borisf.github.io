@@ -20,4 +20,5 @@ You can reach me at <boris@farber.io>.
 # Projects
 * [ClassyShark](https://github.com/google/android-classyshark) 
 * [Gradle recipes](https://github.com/android/gradle-recipes) 
-* [AS Poet](https://github.com/android/android-studio-poet) 
+* [AS Poet](https://github.com/android/android-studio-poet)
+* [Bytecode Viewer](https://github.com/borisf/classyshark-bytecode-viewer)
