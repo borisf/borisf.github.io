@@ -5,8 +5,8 @@ I am a senior partner engineer at Google. I engage with top apps and games, and 
 as trusted advisor and technical expert. I specialize in Android technical quality
 (ANRs, crashes and memory) and build (Gradle).
 
-I received my masters in Software Engineering and MBA in Marketing from Reichmann 
-university in Israel.
+I received my masters in Software Engineering and MBA in Marketing from [Reichman 
+University](https://www.runi.ac.il/en/) in Israel.
 
 Since 2005 I have been working with Android from Samsung to Varonis and now at Google.
 
