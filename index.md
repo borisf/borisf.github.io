@@ -10,12 +10,12 @@ university in Israel.
 
 Since 2005 I have been working with Android from Samsung to Varonis and now at Google.
 
-You can reach me at [boris@farber.io](boris@farber.io)
+You can reach me at <boris@farber.io>
 
 # On Web
-* (LinkedIn)[https://www.linkedin.com/in/borisfarber/] 
-* (Twitter)[https://x.com/BorisFarber] 
-* (Github)[https://github.com/borisf] 
+* [LinkedIn](https://www.linkedin.com/in/borisfarber/) 
+* [Twitter](https://x.com/BorisFarber) 
+* [Github](https://github.com/borisf) 
 
 # Projects
 * [ClassyShark](https://github.com/google/android-classyshark) 
