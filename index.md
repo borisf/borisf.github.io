@@ -3,7 +3,7 @@
 
 I am an Android senior partner engineer at Google. I engage with top apps and games, and act 
 as trusted advisor and technical expert. I specialize in Android technical quality
-(ANRs, crashes and low memory), build (Gradle) and memory based optimizations.
+(ANRs, crashes and low memory) and optimizations (memory and multi threading).
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
