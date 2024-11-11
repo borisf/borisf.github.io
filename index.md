@@ -2,8 +2,8 @@
 <img src="img/Header.jpg" width="200"/>
 
 I am an Android senior partner engineer at Google. I engage with top apps and games, and act 
-as trusted advisor and technical expert. I specialize in Android technical quality
-(ANRs, crashes and low memory) and optimizations (memory and multi threading).
+as a trusted advisor and a technical expert. I specialize in Android technical quality
+(ANRs, JNI and low memory) and optimizations (Gradle, memory and multi threading).
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
