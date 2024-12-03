@@ -1,19 +1,17 @@
 
 <img src="img/Header.jpg" width="200"/>
 
-I am an Android senior partner engineer at Google. I engage with top apps and games, and act 
+I am a senior partner engineer at Google. I engage with top apps and games companies, and act 
 as a trusted advisor and a technical expert.
 
 Topics I am passionate about:
 * Build - Gradle
 * JVM optimizations - file mapping, caching, object layout 
 * Concurrency - multi threading, executor framework
-* Multi language apps - Kotlin, JNI 
+* Runtime - Kotlin, JNI, reflection  
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
-
-Since 2010 I have been working with Android starting at Samsung and Varonis then moving to Google.
 
 You can reach me at <boris@farber.io>.
 
