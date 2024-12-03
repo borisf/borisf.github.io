@@ -7,7 +7,7 @@ as a trusted advisor and a technical expert.
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
 
-Since 2010 I have been working with Android starting from Samsung and Varonis then moved to Google.
+Since 2010 I have been working with Android starting at Samsung and Varonis then moving to Google.
 
 You can reach me at <boris@farber.io>.
 
