@@ -18,6 +18,6 @@ You can reach me at <boris@farber.io>.
 
 # Projects
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables (APK) browser.
-* [Gradle recipes](https://github.com/android/gradle-recipes) - Android build (AGP) samples. 
+* [Gradle Recipes](https://github.com/android/gradle-recipes) - Android build (AGP) samples. 
 * [AS Poet](https://github.com/android/android-studio-poet) - large Android projects generator.
 * [Bytecode Viewer](https://github.com/borisf/classyshark-bytecode-viewer) - class format viewer. 
