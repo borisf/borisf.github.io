@@ -4,6 +4,12 @@
 I am an Android senior partner engineer at Google. I engage with top apps and games, and act 
 as a trusted advisor and a technical expert.
 
+Topics I am passionate about:
+* Build - Gradle
+* JVM optimizations - file mapping, caching, object layout 
+* Concurrency - multi threading, executor framework
+* Multi language apps - Kotlin, JNI 
+
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
 
