@@ -6,8 +6,8 @@ as a trusted advisor and a technical expert.
 
 I specialize in JVM based optimizations: 
 * Build - Gradle
-* Memory - file mapping, caching, object layout 
-* Concurrency - multi threading, executor framework
+* Memory - file mapping, caching, object layout
+* Concurrency - multi threading, executor framework, file traversal 
 * Runtime - Kotlin, JNI, reflection
 * Android - ANRs, crashes  
 
