@@ -8,7 +8,8 @@ I specialize in JVM based optimizations:
 * Build - Gradle
 * Memory - file mapping, caching, object layout 
 * Concurrency - multi threading, executor framework
-* Runtime - Kotlin, JNI, reflection  
+* Runtime - Kotlin, JNI, reflection
+* Android - ANRs, crashes  
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
