@@ -4,11 +4,10 @@
 I am a senior partner engineer at Google. I engage with top apps and games companies, and act 
 as a trusted advisor and a technical expert.
 
-I specialize in JVM based optimizations: 
+I specialize in Java/Kotlin code optimizations: 
 * Build - Gradle
-* Memory - file mapping, caching, object layout
+* JVM - file mapping, caching, object layout, JNI, reflection, ASM
 * Concurrency - multi threading, executor framework, file traversal 
-* Runtime - Kotlin, JNI, reflection
 * Android - ANRs, crashes  
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
