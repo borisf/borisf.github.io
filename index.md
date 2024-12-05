@@ -4,7 +4,7 @@
 I am a senior partner engineer at Google. I engage with top apps and games companies, and act 
 as a trusted advisor and a technical expert.
 
-I specialize in JVM/Android optimizations: 
+I specialize in JVM and Android optimizations: 
 * Build - Gradle
 * JVM - file mapping, caching, object layout, JNI, reflection, ASM
 * Android - ANRs, crashes  
