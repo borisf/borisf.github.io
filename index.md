@@ -7,7 +7,7 @@ as a trusted advisor and a technical expert.
 I specialize in Java and Android optimizations: 
 * Build - Gradle
 * JVM - file mapping, caching, object layout, JNI, reflection and ASM
-* Android - ANRs, crashes and thermals/battery  
+* Android - ANRs and thermals/battery  
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
