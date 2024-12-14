@@ -4,9 +4,9 @@
 I am a senior partner engineer at Google. I engage with top apps and games companies, and act 
 as a trusted advisor and a technical expert.
 
-I am passionate about system optimizations: 
+I specialize in Java and Android: 
 * Java - Gradle, multi-threading, JNI (C/C++)
-* Android - ANRs, crashes, memory, thermals   
+* Android - ANRs, low memory, thermals   
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
