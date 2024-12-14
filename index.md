@@ -6,7 +6,7 @@ as a trusted advisor and a technical expert.
 
 I specialize in Java and Android: 
 * Java - Gradle, multi-threading, JNI (C/C++)
-* Android - ANRs, low memory, thermals   
+* Android - ANRs, memory profiling   
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
