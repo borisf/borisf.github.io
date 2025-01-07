@@ -5,6 +5,7 @@ I am a senior partner engineer at Google. I advise top apps and games companies 
 
 I specialize in Java optimizations: 
 * Java - Design Patterns, multi-threading, JNI (C/C++)
+* Infra - ASM, reflection, Gradle, Spring 
 * Linux - Bash, Git
 * Android - ANRs, memory optimizations   
 
