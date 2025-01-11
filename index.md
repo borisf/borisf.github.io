@@ -3,11 +3,11 @@
 
 I am a senior partner engineer at Google. I advise top apps and games companies on Android.
 
-I specialize in Java and Android optimizations: 
-* Java - Design Patterns, Multi-Threading, JNI (C/C++)
-* Platform - ASM/Class format, Reflection, Gradle 
-* Linux - Bash, Git
-* Android - UI (Views and Compose), AGP, ANRs   
+I specialize in Java and Android: 
+* Java: Design Patterns, Multi-Threading, JNI (C/C++)
+* Android: Kotlin, UI (Views and Compose)
+* Tooling: Gradle, AGP, Bash, Git 
+* Optimizations: Memory, IO, Stability    
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
