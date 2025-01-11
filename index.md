@@ -20,7 +20,7 @@ You can reach me at <boris@farber.io>.
 * [Github](https://github.com/borisf) 
 
 # Projects
-My open source focus is on desktop based tools, system engineering and performance:
+My open source focus is on developer tools for performance analysis:
 * [ClassyShark](https://github.com/google/android-classyshark) - Android executables (APK) browser.
 * [Gradle Recipes](https://github.com/android/gradle-recipes) - Android build (AGP) samples. 
 * [AS Poet](https://github.com/android/android-studio-poet) - large Android projects generator.
