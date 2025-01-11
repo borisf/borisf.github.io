@@ -7,7 +7,7 @@ I specialize in Java and Android:
 * Java: Design Patterns, Multi-Threading, JNI (C/C++)
 * Android: Kotlin, UI (Views and Compose)
 * Tooling: Gradle, AGP, Bash, Git 
-* Optimizations: Memory, IO, Stability    
+* Optimizations: Memory, File System, Stability    
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
