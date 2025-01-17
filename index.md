@@ -1,7 +1,7 @@
 
 <img src="img/Header.jpg" width="200"/>
 
-I am a senior partner engineer at Google. I advise top apps and games companies on Android.
+I am a senior partner engineer at Google. I advise companies on Android optmizations.
 
 I specialize in Java and Android: 
 * Java: Design Patterns, Multi-Threading, JNI (C/C++)
