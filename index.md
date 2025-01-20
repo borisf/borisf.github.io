@@ -3,10 +3,10 @@
 
 I am a senior engineer at Google. My career has intermixed between software and system engineering roles:
 
-* Software Engineering - from Android applications such as system automatic updates and file synchronization
+* Software Engineering - from developing Android automatic updates and file synchronization applications
   to desktop developer tools such as [ClassyShark](https://github.com/google/android-classyshark)
-  and [Gradle Recipes](https://github.com/android/gradle-recipes), with touches on the server side 
-  such as Google Play Billing and Android Vitals.
+  and [Gradle Recipes](https://github.com/android/gradle-recipes), with touches on the server side, Google Play
+  Billing and Android Vitals.
 * System Engineering - helping companies with Android memory, file system and I/O (ANRs, network) improvement.
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
