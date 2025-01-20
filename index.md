@@ -1,7 +1,7 @@
 
 <img src="img/Header.jpg" width="200"/>
 
-I am a senior partner engineer at Google. I help companies with Android memory, performance and stability optimizations.
+I am a senior partner engineer at Google. I help companies with Android memory, performance and stability improvement.
 
 I specialize in Java and Android: 
 * Java: Design Patterns, Multi-Threading, JNI (C/C++)
