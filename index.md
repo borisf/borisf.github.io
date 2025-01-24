@@ -7,7 +7,7 @@ I am a senior engineer at Google. My career has intermixed between software and 
   to desktop developer tools such as [ClassyShark](https://github.com/google/android-classyshark)
   and [Gradle Recipes](https://github.com/android/gradle-recipes), with touches on the server side, Google Play
   Billing and Android Vitals.
-* System engineering 📇 - helping companies with Android memory, file system and I/O (ANRs, network) improvement.
+* System engineering 🔎 - helping companies with Android memory, file system and I/O (ANRs, network) improvement.
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
