@@ -5,9 +5,8 @@ I am a Senior Software Engineer with customer facing experience, working as a Pa
 of problems, technology and people.
 
 My career has span from developing Android automatic updates and file synchronization applications to
-developer tools, [ClassyShark](https://github.com/google/android-classyshark)  
-and [Gradle Recipes](https://github.com/android/gradle-recipes), to the server side, 
-working on Google Play Billing (fraud) and Play Multi Platform (OAuth 2.0).
+developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
+to the server side, working on Google Play Billing (fraud) and Play Multi Platform (OAuth 2.0) integrations.
 
 At Google, I guide companies on:
 * Server - Google Play Billing and Play Multi Platform integrations.
