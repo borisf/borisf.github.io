@@ -6,11 +6,11 @@ of problems, technology and people.
 
 My career has span from developing Android automatic updates and file synchronization applications to
 developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
-to the server side, working on Google Play Billing (fraud) and Play Multi Platform (OAuth 2.0) integrations.
+to the server side, working on Google Play Billing (fraud) and Play Multi Platform (OAuth 2.0 and API) integrations.
 
 At Google, I guide companies on:
 * Server - Google Play Billing and Play Multi Platform integrations.
-* Android - low memory, build (AGP) and ANR optimizations.
+* Android - low memory, build and ANR optimizations.
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
