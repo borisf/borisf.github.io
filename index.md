@@ -2,7 +2,7 @@
 <img src="img/Header.jpg" width="200"/>
 
 I am a Senior Software Engineer with customer facing experience, working as a Partner Engineer at Google. I enjoy the intersection
-of problems, technology and people.
+of technology, problems and people.
 
 My career has span from developing Android automatic updates and file synchronization applications to
 developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
