@@ -4,7 +4,7 @@
 I am a Senior Software Engineer with customer facing experience, working as a Partner Engineer at Google. I enjoy the intersection
 of technology, problem solving and people.
 
-My career has span from developing Android automatic updates and file synchronization applications to
+My career has span from developing Android automatic updates and file synchronization apps to
 developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
 to the server side, working on Google Play Billing (fraud) and Play Multi Platform (OAuth 2.0 and API) integrations.
 
