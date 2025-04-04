@@ -9,7 +9,7 @@ developer tools, [ClassyShark](https://github.com/google/android-classyshark) an
 to the server side, working on Google Play.
 
 At Google, I guide companies on 
-* Google Play - Billing, Multi Platform and Android Vitals.
+* Google Play integrations - Billing, Multi Platform and Android Vitals.
 * Android APIs and internals - Low Memory, Build and ANR optimizations.
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
