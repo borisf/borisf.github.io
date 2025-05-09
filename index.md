@@ -1,16 +1,16 @@
 
 <img src="img/Header.jpg" width="200"/>
 
-I am a Senior Software Engineer with Android and Google Play experience, working as a Partner Engineer at Google. I enjoy the intersection
+I am a Senior Software Engineer with Java and Linux experience, working as a Partner Engineer at Google. I enjoy the intersection
 of technology, problem solving and people.
 
-My career has span from developing Android automatic updates and file synchronization apps to
+My career has span from developing Android apps and games to
 developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
 to the server side, working on Google Play.
 
 At Google, I guide companies on: 
 * Google Play integrations - Billing, Multi Platform and Android Vitals.
-* Android APIs and internals - Memory, Build and ANR optimizations.
+* Android APIs and Linux internals - Memory, Build and ANR optimizations.
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
