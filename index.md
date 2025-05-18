@@ -11,6 +11,7 @@ to the server side, working on Google Play.
 At Google, I guide companies on: 
 * Google Play integrations - Billing, Multi Platform and Android Vitals.
 * Android APIs and Linux internals - Android Build (AGP) and Memory optimizations.
+* Gen AI - app/game quality insights, game content generation
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
