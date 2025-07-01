@@ -1,7 +1,7 @@
 
 <img src="img/Header.jpg" width="200"/>
 
-I am a Senior Software Engineer with Linux/Android/Windows system programming experience, working as a Partner Engineer at Google. I enjoy the intersection
+I am a Senior Software Engineer with Linux, Android and Windows experience, working as a Partner Engineer at Google. I enjoy the intersection
 of technology, problem solving and people.
 
 My career has span from developing Android apps and games to
