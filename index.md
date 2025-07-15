@@ -9,8 +9,8 @@ developer tools, [ClassyShark](https://github.com/google/android-classyshark) an
 to the server side, working on Google Play.
 
 At Google, I guide companies on: 
-* Google Play - Billing, Android Vitals and Play Game Services
-* Android and Linux - memory optimizations
+* Play Game Services
+* Java/Linux memory optimizations
  
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
