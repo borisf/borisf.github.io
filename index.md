@@ -19,5 +19,4 @@ You can reach me at <boris@farber.io>.
 
 # On web
 * [LinkedIn](https://www.linkedin.com/in/borisfarber/) 
-* [Twitter](https://x.com/BorisFarber) 
 * [Github](https://github.com/borisf) 
