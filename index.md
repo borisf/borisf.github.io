@@ -8,7 +8,7 @@ My career has span from developing Android apps and games to desktop
 developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
 to the server side, working on Google Play.
 
-At Google, I guide companies on: 
+At Google, I guide top partners on: 
 * Play Game Services
 * Java/Linux memory optimizations
  
