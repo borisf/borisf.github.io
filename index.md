@@ -3,9 +3,6 @@
 
 I am a Senior Software Engineer working as a Partner Engineer at Google. I enjoy the intersection
 of technology, problem solving and people.
-
-
-and to the server side, working on 
  
 My expertise includes: 
 * Backend - [Google Play Games Services](https://developer.android.com/games/pgs/overview)(Java)
