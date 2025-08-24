@@ -5,7 +5,7 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I enjoy
 of technology, problem solving and people.
  
 My expertise includes: 
-* Backend - [Google Play Games Services](https://developer.android.com/games/pgs/overview) (Java)
+* Backend - [Google Play Games Services](https://developer.android.com/games/pgs/overview)
 * Android - apps and games development
 * Open Source - [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes)
 * Outreach - developer documentation and public speaking 
