@@ -8,7 +8,7 @@ I started from developing Android apps and games, moved to desktop
 developer tools, [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes), 
 and to the server side, working on [Google Play Games Services](https://developer.android.com/games/pgs/overview).
  
-My experience includes: 
+My expertise includes: 
 * Development - Backend (Java), Android (Kotlin/C++)
 * Open Source tools - ClassyShark and Gradle Recipes
 * Scale - development documenation and public speaking 
