@@ -5,10 +5,9 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I enjoy
 of technology, problem solving and people.
  
 My expertise includes: 
-* Backend - [Google Play Games Services](https://developer.android.com/games/pgs/overview)
+* Client-Server - [Google Play Games Services](https://developer.android.com/games/pgs/overview) and [Play Billing](https://developer.android.com/google/play/billing)
 * Open Source - [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes)
-* Outreach - developer documentation and public speaking
-* Android - memory and build optimizations for apps and games
+* Outreach - developer documentation, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
