@@ -2,7 +2,7 @@
 <img src="img/Header.jpg" width="200"/>
 
 I am a Senior Software Engineer working as a Partner Engineer at Google. I guide top companies on 
-[Google Play Games Services](https://developer.android.com/games/pgs/overview) integrations.
+[Google Play Games Services](https://developer.android.com/games/pgs/overview) client-server integrations.
 
 I enjoy the intersection of technology, problem solving and people.
  
