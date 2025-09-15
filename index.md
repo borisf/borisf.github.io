@@ -1,12 +1,13 @@
 
 <img src="img/Header.jpg" width="200"/>
 
-I am a Senior Software Engineer working as a Partner Engineer at Google. I enjoy the intersection
-of technology, problem solving and people.
+I am a Senior Software Engineer working as a Partner Engineer at Google. I guide top companies on 
+[Google Play Games Services](https://developer.android.com/games/pgs/overview) integrations.
+
+I enjoy the intersection of technology, problem solving and people.
  
-My expertise includes: 
-* Backend - [Google Play Games Services](https://developer.android.com/games/pgs/overview) and [Play Billing](https://developer.android.com/google/play/billing)
-* Java - [Gradle](https://gradle.org/)
+My expertise includes:  
+* Java - [Gradle](https://gradle.org/) and [Spring](https://spring.io/)
 * Open Source - [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes)
 * Outreach - techical writing, mentoring and public speaking
 
