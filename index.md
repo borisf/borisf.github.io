@@ -7,8 +7,9 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I guide
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Java - [Gradle](https://gradle.org/) and [Spring](https://spring.io/)
+* Java - [Gradle](https://gradle.org/), [Spring](https://spring.io/) and performance optimizations
 * Open Source - [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes)
+* Android - Kotlin, [Gradle](https://gradle.org/) and [Android Vitals](https://developer.android.com/topic/performance/vitals)
 * Outreach - techical writing, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
