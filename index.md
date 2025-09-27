@@ -7,7 +7,7 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I guide
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Spring - Core, Boot, Web and Security  
+* Spring - Core, Boot and Security  
 * JVM - Kotlin, [Gradle](https://gradle.org/) and optimizations
 * Open Source - [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes)
 * Outreach - techical writing, mentoring and public speaking
