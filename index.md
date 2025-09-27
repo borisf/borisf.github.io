@@ -11,7 +11,7 @@ My expertise includes:
 * JVM - Kotlin, [Gradle](https://gradle.org/) and optimizations
 * Linux - memory APIs and bash
 * Java Tools - [ClassyShark](https://github.com/google/android-classyshark) and [Gradle Recipes](https://github.com/android/gradle-recipes)
-* Outreach - techical writing, mentoring, open source and public speaking
+* Outreach - techical writing, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
