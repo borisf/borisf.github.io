@@ -9,7 +9,7 @@ I enjoy the intersection of technology, problem solving and people.
 My expertise includes:  
 * Spring - Core (Context and IoC), Boot (Rest, MVC and reactive) and AI  
 * Java - Kotlin, [Gradle](https://gradle.org/) and optimizations
-* Linux - memory APIs and bash
+* Linux - memory APIs and Bash
 * Outreach - techical writing, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
