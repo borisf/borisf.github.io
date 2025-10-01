@@ -10,8 +10,8 @@ as Spring and Android, I create small, focused programs that are call framework 
 I enjoy the intersection of technology, problem solving and people. 
  
 My expertise includes:  
-* Spring - Core (Context and IoC), Boot (Rest, MVC and reactive) and AI  
-* Java - Kotlin, [Gradle](https://gradle.org/) and optimizations
+* Backend - Spring (Context and IoC), Spring Boot (Rest, MVC and reactive) and AI  
+* Java - Kotlin, [Gradle](https://gradle.org/), multi-theading and optimizations
 * Linux - memory APIs and Bash
 * Outreach - techical writing, mentoring and public speaking
 
