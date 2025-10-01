@@ -10,7 +10,7 @@ as Spring and Android, I create small, focused programs that are call framework 
  
 My expertise includes:  
 * Backend - Spring (Context and IoC), Spring Boot (MVC and reactive) and AI  
-* Java - Kotlin, [Gradle](https://gradle.org/), multi-theading and optimizations
+* Java - Kotlin, [Gradle](https://gradle.org/), multi-threading and optimizations
 * Linux - memory APIs and Bash
 * Outreach - techical writing, mentoring and public speaking
 
