@@ -5,7 +5,7 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I guide
 [Google Play Games Services](https://developer.android.com/games/pgs/overview) client-server integrations.
 
 To work effectively with frameworks such
-as Spring and Android, I create small, focused programs that highlight and leverage the framework's core APIs.
+as Spring and Android, I create small, focused programs that are call framework abstracted (low level) APIs.
 
 I enjoy the intersection of technology, problem solving and people. 
  
