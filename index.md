@@ -6,10 +6,10 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I guide
 I enjoy the intersection of technology, problem solving and people.
 
 To work effectively with frameworks such
-as Spring and Android, I create small, focused programs that are call framework abstracted (low level) APIs.
+as Spring and Android, I create small, focused programs that call framework abstracted (low level) APIs.
  
 My expertise includes:  
-* Backend - Spring (Context and IoC), Spring Boot (MVC and reactive) and AI  
+* Backend - Spring, Spring Boot, SQL and AI  
 * Java - Kotlin, [Gradle](https://gradle.org/), multi-threading and optimizations
 * Linux - memory APIs and Bash
 * Outreach - techical writing, mentoring and public speaking
