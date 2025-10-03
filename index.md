@@ -9,7 +9,7 @@ To work effectively with frameworks such
 as Spring and Android, I create small, focused programs that call framework abstracted (low level) APIs.
  
 My expertise includes:  
-* Backend - Spring, Spring Boot, SQL and AI  
+* Backend - Spring, Spring Boot, databases and AI  
 * Java - Kotlin, [Gradle](https://gradle.org/), multi-threading and optimizations
 * Linux - memory APIs and Bash
 * Outreach - techical writing, mentoring and public speaking
