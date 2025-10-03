@@ -11,7 +11,7 @@ as Spring and Android, I create small, focused programs that call framework abst
 My expertise includes:  
 * Backend - Spring, Spring Boot, databases and AI  
 * Java - Kotlin, [Gradle](https://gradle.org/), multi-threading and optimizations
-* Linux - memory APIs and Bash
+* Linux - memory APIs, profiling and Bash
 * Outreach - techical writing, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
