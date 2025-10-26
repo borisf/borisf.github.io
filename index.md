@@ -12,7 +12,7 @@ My expertise includes:
 * Backend - API Development  
 * Java - [Gradle](https://gradle.org/), object-oriented, multi-threading and optimizations
 * Linux - performance analysis, Bash and Git
-* Outreach - techical writing, mentoring and public speaking
+* Outreach - technical writing, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
