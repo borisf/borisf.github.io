@@ -6,7 +6,7 @@ I am a Senior Software Engineer working as a Partner Engineer at Google. I guide
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Backend - API Development, identity  
+* Backend - API Development, identity and rate limiting (QPS)  
 * Java - [Gradle](https://gradle.org/), object-oriented, multi-threading and optimizations
 * Linux - performance analysis, Bash and Git
 * Outreach - technical writing, mentoring and public speaking
