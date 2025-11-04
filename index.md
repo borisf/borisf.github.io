@@ -6,9 +6,9 @@ top companies on [Google Play Games Services](https://developer.android.com/game
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Backend - API Development, identity and rate limiting (QPS)  
-* Java - [Gradle](https://gradle.org/), object-oriented, multi-threading and optimizations
-* Linux - performance analysis, Bash and Git
+* Backend Development - API Development, Identity Management and high-volume traffic control  
+* Java & Optimizations - Java development, multi-threading, object-oriented design, and performance tuning
+* System Diagnostics - Android performance analysis, Bash scripting, and Git
 * Outreach - technical writing, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
