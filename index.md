@@ -6,7 +6,7 @@ top companies on [Google Play Games Services](https://developer.android.com/game
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Backend Development - API Development, Identity Management and high-volume traffic control  
+* Backend Development - API development, identity management and high-volume traffic control  
 * Java & Optimizations - Java development, multi-threading, object-oriented design, and performance tuning
 * System Diagnostics - Android performance analysis, Bash scripting, and Git
 * Outreach - technical writing, mentoring and public speaking
