@@ -6,8 +6,8 @@ top companies on [Google Play Games Services](https://developer.android.com/game
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Backend Development - Sign in, Recall and Achievements APIs with QPS Management    
 * Java & Optimizations - Java development, multi-threading, object-oriented design and performance tuning
+* Backend Development - Sign in, Recall and Achievements APIs with QPS Management    
 * System Diagnostics - Android performance analysis, Bash scripting and Git
 * Outreach - technical writing, mentoring and public speaking
 
