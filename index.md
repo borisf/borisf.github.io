@@ -6,10 +6,10 @@ top companies on [Google Play Games Services](https://developer.android.com/game
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Java & Optimizations - Java development, multi-threading, object-oriented design and performance tuning
-* Backend Development - Sign in, Recall and Achievements APIs with QPS Management    
-* System Diagnostics - Android performance analysis, Bash scripting and Git
-* Outreach - technical writing, mentoring and public speaking
+* Java - Java development, multi-threading, object-oriented design and performance tuning
+* Backend - Identity (on top of OAuth2), Achievements API and QPS management    
+* Linux - Memory APIs, Bash and Git
+* Customers - technical writing, escalations, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
