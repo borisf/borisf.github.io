@@ -7,7 +7,7 @@ I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
 * Java - Java development, multi-threading, object-oriented design and performance tuning
-* Backend - Play Identity (on top of OAuth2), Achievements API and QPS management    
+* Backend - API development (Identity and Achievements), Scale (QPS and replication)    
 * Linux - Memory APIs, Bash and Git
 * Customers - technical writing, escalations, mentoring and public speaking
 
