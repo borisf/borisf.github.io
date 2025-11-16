@@ -7,7 +7,7 @@ I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
 * Java - Java development, multi-threading, object-oriented design and performance tuning
-* Backend - API development (Play Identity and Achievements), QPS and replication    
+* Backend - Spring/Boot, API development (Play Identity and Achievements), QPS and replication    
 * Customers - technical writing, escalations, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
