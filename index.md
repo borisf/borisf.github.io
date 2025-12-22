@@ -1,6 +1,8 @@
 
 <img src="img/Header.jpg" width="200"/>
 
+Hi 👏, and welcome to my site!
+
 I am a Senior Software Engineer and a Tech Lead working as a Partner Engineer at Google. I guide developers at 
 customer companies on [Google Play Games Services](https://developer.android.com/games/pgs/overview) client-server integrations.
 I enjoy the intersection of technology, problem solving and people.
