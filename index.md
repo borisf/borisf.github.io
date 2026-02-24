@@ -9,8 +9,8 @@ I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
 * Java - Java development, multi-threading, object-oriented design and performance tuning
-* System - Spring/Boot, API development, Linux, scalability and security   
-* Customers - technical writing, escalations, mentoring and public speaking
+* System Experience - Spring/Boot, API development, Linux, scalability and security   
+* Technical Leadership - technical writing, escalations, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
