@@ -5,11 +5,11 @@ Hi 👏, and welcome to my site!
 
 I am a Senior Software Engineer and a Tech Lead working as a Partner Engineer at Google. I guide developers at 
 game companies on [Google Play Games Services](https://developer.android.com/games/pgs/overview) client-server integrations.
-I enjoy the intersection of technology, problem solving and people.
+I enjoy the intersection of technology, problem solving and people. I have developed in C/C++, Java, Kotlin and Rust.
  
 My expertise includes:  
-* Java - Java development, multi-threading, object-oriented design and performance tuning
-* System Experience - Spring/Boot, API development, Linux, scalability and security   
+* Business - stakeholder management and customer facing
+* System Design - API development, Linux, design, analysis, scalability and security   
 * Technical Leadership - technical writing, escalations, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
