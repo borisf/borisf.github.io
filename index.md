@@ -9,7 +9,7 @@ I enjoy the intersection of technology, problem solving and people. I have devel
  
 My expertise includes:  
 * Business - stakeholder management and customer facing
-* System Design - API development, Linux, design, analysis, scalability and security   
+* System Design - AI, API development, Linux, design, analysis, scalability and security   
 * Technical Leadership - technical writing, escalations, mentoring and public speaking
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
