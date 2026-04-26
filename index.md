@@ -8,7 +8,7 @@ game companies on [Google Play Games Services](https://developer.android.com/gam
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Tech - Java, Kotlin, C++, JNI and Gradle 
+* Tech - Java and C++
 * System Design - AI, Spring and Linux   
 * Tech Lead - mentoring, public speaking, stakeholder management and customer facing
 
