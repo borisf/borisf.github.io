@@ -8,8 +8,8 @@ game companies on [Google Play Games Services](https://developer.android.com/gam
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Tech - Java and C++
-* System Design - AI, Android and Linux   
+* Tech - Java and C/C++
+* System - AI, Linux System Programming   
 * Tech Lead - mentoring, public speaking, stakeholder management and customer facing
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
