@@ -3,7 +3,7 @@
 
 Hi 👏, and welcome to my site!
 
-I am a Senior Software Engineer and a Tech Lead working as a Partner Engineer at Google. I specialize at memory optimizations.
+I am a Senior Software Engineer and a Tech Lead working as a Partner Engineer at Google. I specialize in memory optimizations.
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
