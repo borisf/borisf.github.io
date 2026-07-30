@@ -8,8 +8,8 @@ I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
 * Tech - Java and C/C++
-* System - AI, Linux, JVM and Android
-* Tech Lead - mentoring, public speaking, stakeholder management and customer facing
+* System - AI, Linux and JVM 
+* Tech Lead - mentoring, stakeholder management and customer facing
 
 I received my masters in Software Engineering and MBA in Marketing from [Reichman 
 University](https://www.runi.ac.il/en/) in Israel.
