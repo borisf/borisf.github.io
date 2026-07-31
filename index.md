@@ -7,7 +7,7 @@ I am a Senior Software Engineer and a Tech Lead working as a Partner Engineer at
 I enjoy the intersection of technology, problem solving and people.
  
 My expertise includes:  
-* Tech - Java and C/C++
+* Tech - C/C++ and Java
 * System - AI, Linux and JVM 
 * Tech Lead - mentoring, stakeholder management and customer facing
 
